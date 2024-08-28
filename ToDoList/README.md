@@ -1,8 +1,24 @@
-# React + Vite
+# MERN ToDo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple ToDo application built using the MERN stack (MongoDB, Express, React, Node.js). This application allows users to add, edit, delete, and mark tasks as complete.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Add Tasks**: Create new tasks with a description.
+- **Edit Tasks**: Toggle tasks between completed and incomplete.
+- **Delete Tasks**: Remove tasks from the list.
+- **Mark Complete**: Mark tasks as completed or incomplete.
+
+## Technologies Used
+
+- **Frontend**: React, React Icons, Axios
+- **Backend**: Node.js, Express
+- **Database**: MongoDB
+- **Tools**: Vite (for React application)
+
+## Prerequisites
+
+- **Node.js**: Make sure you have Node.js installed on your machine.
+- **MongoDB**: A running instance of MongoDB is required.
+- **Vite**: Vite is used for faster development of the React app.
+
