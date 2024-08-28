@@ -22,3 +22,13 @@ A simple ToDo application built using the MERN stack (MongoDB, Express, React, N
 - **MongoDB**: A running instance of MongoDB is required.
 - **Vite**: Vite is used for faster development of the React app.
 
+## Get Started
+
+- Clone the project
+- Install the node packages
+- Navigate to `Server` directory
+- Run `npm start`
+- Navigate to `ToDoList` directory
+- Run `npm run dev`
+
+
